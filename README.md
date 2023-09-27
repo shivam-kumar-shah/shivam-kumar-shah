@@ -21,7 +21,6 @@
 [![/shivam-kumar-shah](assets/icons/linkedin.svg)](https://www.linkedin.com/in/shivam-kumar-shah/)
 [![/shivam_shah2701](assets/icons/leetcode.svg)](https://leetcode.com/shivam_shah2701/)
 [![/shivam-kumar-shah](assets/icons/codechef.svg)](https://www.linkedin.com/in/shivam-kumar-shah/)
-[![/shivam-kumar-shah](assets/icons/codeforces.svg)](https://www.linkedin.com/in/shivam-kumar-shah/)
 [![/shivam-kumar-shah](assets/icons/outlook.svg)](mailto:shivam-kumar-shah@outlook.com)
 [![/shivam.shah2701](assets/icons/gmail.svg)](mailto:shivam.shah2701@gmail.com)
 [![/shivam-kumar-shah](assets/icons/netlify.svg)](https://storied-madeleine-fcf12f.netlify.app/)
