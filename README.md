@@ -83,6 +83,6 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kumar-shah&theme=gotham&hide_border=true&show_icons=true&layout=donut)](https://github.com/shivam-kumar-shah/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-kumar-shah&theme=gotham&hide_border=false&show_icons=true&layout=donut)](https://github.com/shivam-kumar-shah/github-readme-stats)
 
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kumar-shah&theme=gotham&hide_border=true&show_icons=true&rank_icon=github)](https://github.com/shivam-kumar-shah/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivam-kumar-shah&theme=gotham&hide_border=false&show_icons=true&rank_icon=github)](https://github.com/shivam-kumar-shah/github-readme-stats)
