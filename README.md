@@ -10,7 +10,7 @@
 
 - 📖 I’m currently learning **DevOps**
 
-- 🫣 All of my projects are available on [My Portfolio Website](https://storied-madeleine-fcf12f.netlify.app/)
+- 🫣 All of my projects are available on [My Portfolio Website](https://shivam-shah.netlify.app/)
 
 - 💬 Lets discuss **React JS, Express, Flutter**
 
@@ -23,7 +23,7 @@
 [![/shivam-kumar-shah](assets/icons/codechef.svg)](https://www.linkedin.com/in/shivam-kumar-shah/)
 [![/shivam-kumar-shah](assets/icons/outlook.svg)](mailto:shivam-kumar-shah@outlook.com)
 [![/shivam.shah2701](assets/icons/gmail.svg)](mailto:shivam.shah2701@gmail.com)
-[![/shivam-kumar-shah](assets/icons/netlify.svg)](https://storied-madeleine-fcf12f.netlify.app/)
+[![/shivam-kumar-shah](assets/icons/netlify.svg)](https://shivam-shah.netlify.app/)
 
 ## Skills
 
