@@ -1,5 +1,5 @@
 <!-- Introduction -->
-<img src="assets/banner.png" alt="GitHub Banner">
+<img src="assets/profile_banner.png" alt="GitHub Banner">
 <h1 align="center">Howdy!😶‍🌫️ I'm Shivam Kumar</h1>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shivam-kumar-shah&color=brightgreen&style=for-the-badge)
